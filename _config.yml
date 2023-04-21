@@ -1,9 +1,0 @@
-# Site settings
-title: Great New Web Site
-author:
-  name: Patricia Ndongbou
-  email: patriciandongbou@gmail.com
-description: "Great site about Jekyll on GH-Pages."
-
-# Build settings
-remote_theme: jekyll/minima
